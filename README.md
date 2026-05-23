@@ -120,7 +120,7 @@ glasscast/
 
 | Moderate | Hot | Foggy |
 |----------|-----|-------|
-| ![Moderate](Output/image.png) | ![Hot](Output/image-1.png) | ![Foggy](Output/image-2.png) |
+| ![Moderate](Output/image-1.png) | ![Hot](Output/image-1.png) | ![Foggy](Output/image-2.png) |
 
 | Stormy | Warm | Very Hot |
 |--------|------|----------|
