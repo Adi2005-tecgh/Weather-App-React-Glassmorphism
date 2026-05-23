@@ -125,7 +125,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Arshiya Attar**
+**Aditya Sonakanalli**
 
-- GitHub: [@iamarshiya](https://github.com/iamarshiya)
-- LinkedIn: [Arshiya Attar](https://www.linkedin.com/in/arshiya-attar-91b4ab2b5/)
+
