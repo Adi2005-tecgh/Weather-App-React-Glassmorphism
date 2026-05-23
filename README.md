@@ -114,17 +114,6 @@ glasscast/
 └── README.md
 ```
 
----
-
-## 📸 Screenshots
-
-| Moderate | Hot | Foggy |
-|----------|-----|-------|
-| ![Moderate](Output/image-1.png) | ![Hot](Output/image-1.png) | ![Foggy](Output/image-2.png) |
-
-| Stormy | Warm | Very Hot |
-|--------|------|----------|
-| ![Stormy](Output/image-3.png) | ![Warm](Output/image-4.png) | ![Very Hot](Output/image-5.png) |
 
 ---
 
